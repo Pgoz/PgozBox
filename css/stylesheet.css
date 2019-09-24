@@ -1,0 +1,212 @@
+.padding-top{
+	padding-top:200px;
+	padding-bottom:200px;
+}
+
+.padding-top-1{
+	padding-top:150px;
+	padding-bottom:150px;
+}
+
+.img-responsive{
+	width: 100%;
+	height: auto;
+}
+h3{
+	color:purple;
+	font-family: 'Righteous', cursive;
+}
+
+p{
+	text-align:justify;
+	font-family: 'Asap', sans-serif;
+}
+
+#menu ul li{
+	/* font-family: 'Righteous', cursive;
+	font-size:20px; */
+}
+/* body {
+    font-family: 'Montserrat',sans-serif;
+} */
+ul li .fa-shopping-cart{
+	font-size:30px;
+	padding:0px;
+
+}
+
+/* .navbar.nav-item:hover{
+	background-color:;
+} */
+.navbar.fixed-top{
+	background-color: purple;
+	color: #fff;
+}
+.navbar a{
+	color: #fff;
+}
+.padding-top.text-dark{
+	color:purple;
+}
+.btn-cta {
+    /* background-color: #20201c; */
+    font-weight: 500;
+    text-transform: capitalize;
+	color: #fff;
+}
+.padding-8-16 {
+	padding: 8px 16px!important;
+}
+
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+button {
+    overflow: visible;
+}
+
+#furniture{
+	background-image:url(../images/image1.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	opacity: 0.9;
+	height: 400px;
+}
+
+.fas.fa-search{
+	font-size:15px;
+	padding:0px;
+	box-sizing: border-box;
+	
+}
+
+#furniture .btn-success:hover{
+	background-color:transparent;
+	color:purple;
+}
+
+.input-group.md-form.form-sm.form-2 input.amber-border {
+	border: 5px solid #fabd06;
+	border-top-right-radius: 0.25rem;
+	border-bottom-right-radius: 0.25rem;
+	}
+/*END OF FURNITURE CSS*/
+
+
+#product{
+	background-color:  #fabd06;
+	padding-top:70px;
+	padding-bottom: 70px;
+	text-align:center;
+}
+
+
+#product .col-4{
+	border: 5px solid #f0f0f0;
+	margin:50px;
+}
+/*END OF PRODUCT*/
+
+
+img .carousel-inner{
+	max-width: 20%;
+	height: 400px;
+}
+
+/*END OF GLOBAL*/
+
+
+#How-It-Works{
+	padding:100px;
+	background-color:#e6e6e6;
+	text-align: center;
+}
+
+#How-It-Works .fab, .fas{
+	font-size:70px;
+	padding:20px;
+}
+
+#How-It-Works .btn-success{
+	background-color:#2323bb;
+	border-color:#2323bb;
+	font-family: 'Righteous', cursive;
+}
+
+#How-It-Works .btn-success:hover{
+	background-color:transparent;
+	border-color:purple;
+	color: purple;
+	font-family: 'Righteous', cursive;
+}
+
+/*END OF HOW IT WORK*/
+
+
+/*CLIENT END HERE*/
+
+#workplaces{
+	background-image:url(../images/workplaces.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	color: white;
+	box-sizing: border-box;
+}
+
+#workplaces .btn-info{
+	background-color: #777475c2;
+	border-color: #2323bb;
+}
+#workplaces .btn-info:hover{
+	background-color:transparent;
+	border-color: #2323bb;
+	color:#2323bb;
+}
+
+/*END OF WORKPLACES*/
+
+#partner{
+	padding:30px;
+}
+
+#partner p{
+	text-align:center;
+}
+
+footer .footer-logo{
+	text-align: center;
+	padding:30px;
+	font-family: 'Cookie', cursive;
+	font-size:30px;
+
+}
+footer .bg-dark{
+	color: purple;
+}
+
+footer .bg-danger{
+	background-color:black !important;
+	padding-top:5px;
+}
+
+footer .ml-auto{
+	padding-right:10%;
+}
